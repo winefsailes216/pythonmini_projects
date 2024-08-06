@@ -1,8 +1,8 @@
 # pythonmini_projects
-1.) Calculator_v1
-Basic Calculator using basic function calls and modules
+1.) **Calculator_v1-terminal**
+Basic Calculator using basic arithmetic and basic function calls and modules
 
-2.) Calculator_v2
+2.) **Calculator_v2-terminal**
 It's a command-line calculator with basic modules, functions and dictionary for equations
 I also used try except to catch simple ValueError and while loop to make the app running until the user selects 'quit' to exit
 
